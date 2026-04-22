@@ -2,7 +2,7 @@
   "name": "Chronicle — Life Archive",
   "short_name": "Chronicle",
   "description": "Your personal productivity timeline and life archive",
-  "start_url": "/index.html",
+  "start_url": "/To-Do/",
   "display": "standalone",
   "background_color": "#0a0a0f",
   "theme_color": "#0a0a0f",
